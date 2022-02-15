@@ -1,0 +1,15 @@
+{
+	"replacement_policy": [ 
+		{
+			"hawkeye": [
+				{ "maxRRPV": ["5", "9"] },
+				{ "SHCT_SIZE_BITS": ["9", "13"] }	
+			]
+		},
+		{
+			"shippp":[
+			
+			]	
+		}
+	]
+}
